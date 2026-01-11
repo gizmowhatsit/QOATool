@@ -1,4 +1,5 @@
 namespace QOATool;
+
 class WavFile
 {
     public int Channels;
